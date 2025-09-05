@@ -1,4 +1,4 @@
-# Real Estate NFT DAp
+# Real Estate NFT DApp
 
 ## Technology Stack & Tools
 
@@ -30,5 +30,6 @@ In a separate terminal execute:
 ### 7. Start frontend
 
 `$ npm run start`
+
 
 
